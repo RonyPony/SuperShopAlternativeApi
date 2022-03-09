@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7b62bf0e-8e4c-4aaa-8b19-b1425c0d9d53": {
+      "ProjectGuid": "7b62bf0e-8e4c-4aaa-8b19-b1425c0d9d53",
+      "DisplayName": "SuperShop.Data",
+      "ColorIndex": 0
+    },
+    "7676ae92-c83b-4dee-9fd7-64144e1cb869": {
+      "ProjectGuid": "7676ae92-c83b-4dee-9fd7-64144e1cb869",
+      "DisplayName": "superShopAlternativeImplementation",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

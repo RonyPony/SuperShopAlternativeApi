@@ -1,0 +1,14 @@
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Core\obj\Debug\net6.0\SuperShop.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Core\obj\Debug\net6.0\SuperShop.Core.AssemblyInfoInputs.cache
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Core\obj\Debug\net6.0\SuperShop.Core.AssemblyInfo.cs
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Core\obj\Debug\net6.0\SuperShop.Core.csproj.CoreCompileInputs.cache
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Core\bin\Debug\net6.0\SuperShop.Core.deps.json
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Core\bin\Debug\net6.0\SuperShop.Core.runtimeconfig.json
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Core\bin\Debug\net6.0\SuperShop.Core.dll
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Core\bin\Debug\net6.0\ref\SuperShop.Core.dll
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Core\bin\Debug\net6.0\SuperShop.Core.pdb
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Core\obj\Debug\net6.0\SuperShop.Core.dll
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Core\obj\Debug\net6.0\ref\SuperShop.Core.dll
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Core\obj\Debug\net6.0\SuperShop.Core.pdb
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Core\obj\Debug\net6.0\SuperShop.Core.genruntimeconfig.cache
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Core\obj\Debug\net6.0\SuperShop.Core.csproj.AssemblyReference.cache

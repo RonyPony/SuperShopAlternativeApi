@@ -1,0 +1,17 @@
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Data\obj\Debug\net6.0\SuperShop.Data.csproj.AssemblyReference.cache
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Data\obj\Debug\net6.0\SuperShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Data\obj\Debug\net6.0\SuperShop.Data.AssemblyInfoInputs.cache
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Data\obj\Debug\net6.0\SuperShop.Data.AssemblyInfo.cs
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Data\obj\Debug\net6.0\SuperShop.Data.csproj.CoreCompileInputs.cache
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Data\bin\Debug\net6.0\SuperShop.Data.deps.json
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Data\bin\Debug\net6.0\SuperShop.Data.runtimeconfig.json
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Data\bin\Debug\net6.0\SuperShop.Data.dll
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Data\bin\Debug\net6.0\ref\SuperShop.Data.dll
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Data\bin\Debug\net6.0\SuperShop.Data.pdb
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Data\bin\Debug\net6.0\SuperShop.Core.dll
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Data\bin\Debug\net6.0\SuperShop.Core.pdb
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Data\obj\Debug\net6.0\SuperShop.Data.csproj.CopyComplete
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Data\obj\Debug\net6.0\SuperShop.Data.dll
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Data\obj\Debug\net6.0\ref\SuperShop.Data.dll
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Data\obj\Debug\net6.0\SuperShop.Data.pdb
+C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Data\obj\Debug\net6.0\SuperShop.Data.genruntimeconfig.cache
