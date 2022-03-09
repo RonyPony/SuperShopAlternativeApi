@@ -2349,11 +2349,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\tmp\\superShopAlternativeApi\\superShopAlternativeImplementation\\SuperShop.Core\\SuperShop.Core.csproj",
+      "projectUniqueName": "C:\\proyectos\\SuperShopAlternativeApi\\SuperShop.Core\\SuperShop.Core.csproj",
       "projectName": "SuperShop.Core",
-      "projectPath": "C:\\tmp\\superShopAlternativeApi\\superShopAlternativeImplementation\\SuperShop.Core\\SuperShop.Core.csproj",
+      "projectPath": "C:\\proyectos\\SuperShopAlternativeApi\\SuperShop.Core\\SuperShop.Core.csproj",
       "packagesPath": "C:\\Users\\rocruz\\.nuget\\packages\\",
-      "outputPath": "C:\\tmp\\superShopAlternativeApi\\superShopAlternativeImplementation\\SuperShop.Core\\obj\\",
+      "outputPath": "C:\\proyectos\\SuperShopAlternativeApi\\SuperShop.Core\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rocruz\\AppData\\Roaming\\NuGet\\NuGet.Config",

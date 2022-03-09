@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\tmp\\superShopAlternativeApi\\superShopAlternativeImplementation\\superShopAlternativeImplementation\\superShopAlternativeImplementation.csproj": {}
+    "C:\\proyectos\\SuperShopAlternativeApi\\superShopAlternativeImplementation\\superShopAlternativeImplementation.csproj": {}
   },
   "projects": {
-    "C:\\tmp\\superShopAlternativeApi\\superShopAlternativeImplementation\\SuperShop.Core\\SuperShop.Core.csproj": {
+    "C:\\proyectos\\SuperShopAlternativeApi\\SuperShop.Core\\SuperShop.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\tmp\\superShopAlternativeApi\\superShopAlternativeImplementation\\SuperShop.Core\\SuperShop.Core.csproj",
+        "projectUniqueName": "C:\\proyectos\\SuperShopAlternativeApi\\SuperShop.Core\\SuperShop.Core.csproj",
         "projectName": "SuperShop.Core",
-        "projectPath": "C:\\tmp\\superShopAlternativeApi\\superShopAlternativeImplementation\\SuperShop.Core\\SuperShop.Core.csproj",
+        "projectPath": "C:\\proyectos\\SuperShopAlternativeApi\\SuperShop.Core\\SuperShop.Core.csproj",
         "packagesPath": "C:\\Users\\rocruz\\.nuget\\packages\\",
-        "outputPath": "C:\\tmp\\superShopAlternativeApi\\superShopAlternativeImplementation\\SuperShop.Core\\obj\\",
+        "outputPath": "C:\\proyectos\\SuperShopAlternativeApi\\SuperShop.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rocruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -104,14 +104,14 @@
         }
       }
     },
-    "C:\\tmp\\superShopAlternativeApi\\superShopAlternativeImplementation\\SuperShop.Data\\SuperShop.Data.csproj": {
+    "C:\\proyectos\\SuperShopAlternativeApi\\SuperShop.Data\\SuperShop.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\tmp\\superShopAlternativeApi\\superShopAlternativeImplementation\\SuperShop.Data\\SuperShop.Data.csproj",
+        "projectUniqueName": "C:\\proyectos\\SuperShopAlternativeApi\\SuperShop.Data\\SuperShop.Data.csproj",
         "projectName": "SuperShop.Data",
-        "projectPath": "C:\\tmp\\superShopAlternativeApi\\superShopAlternativeImplementation\\SuperShop.Data\\SuperShop.Data.csproj",
+        "projectPath": "C:\\proyectos\\SuperShopAlternativeApi\\SuperShop.Data\\SuperShop.Data.csproj",
         "packagesPath": "C:\\Users\\rocruz\\.nuget\\packages\\",
-        "outputPath": "C:\\tmp\\superShopAlternativeApi\\superShopAlternativeImplementation\\SuperShop.Data\\obj\\",
+        "outputPath": "C:\\proyectos\\SuperShopAlternativeApi\\SuperShop.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rocruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -128,8 +128,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\tmp\\superShopAlternativeApi\\superShopAlternativeImplementation\\SuperShop.Core\\SuperShop.Core.csproj": {
-                "projectPath": "C:\\tmp\\superShopAlternativeApi\\superShopAlternativeImplementation\\SuperShop.Core\\SuperShop.Core.csproj"
+              "C:\\proyectos\\SuperShopAlternativeApi\\SuperShop.Core\\SuperShop.Core.csproj": {
+                "projectPath": "C:\\proyectos\\SuperShopAlternativeApi\\SuperShop.Core\\SuperShop.Core.csproj"
               }
             }
           }
@@ -208,14 +208,14 @@
         }
       }
     },
-    "C:\\tmp\\superShopAlternativeApi\\superShopAlternativeImplementation\\superShopAlternativeImplementation\\superShopAlternativeImplementation.csproj": {
+    "C:\\proyectos\\SuperShopAlternativeApi\\superShopAlternativeImplementation\\superShopAlternativeImplementation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\tmp\\superShopAlternativeApi\\superShopAlternativeImplementation\\superShopAlternativeImplementation\\superShopAlternativeImplementation.csproj",
+        "projectUniqueName": "C:\\proyectos\\SuperShopAlternativeApi\\superShopAlternativeImplementation\\superShopAlternativeImplementation.csproj",
         "projectName": "superShopAlternativeImplementation",
-        "projectPath": "C:\\tmp\\superShopAlternativeApi\\superShopAlternativeImplementation\\superShopAlternativeImplementation\\superShopAlternativeImplementation.csproj",
+        "projectPath": "C:\\proyectos\\SuperShopAlternativeApi\\superShopAlternativeImplementation\\superShopAlternativeImplementation.csproj",
         "packagesPath": "C:\\Users\\rocruz\\.nuget\\packages\\",
-        "outputPath": "C:\\tmp\\superShopAlternativeApi\\superShopAlternativeImplementation\\superShopAlternativeImplementation\\obj\\",
+        "outputPath": "C:\\proyectos\\SuperShopAlternativeApi\\superShopAlternativeImplementation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rocruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -232,8 +232,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\tmp\\superShopAlternativeApi\\superShopAlternativeImplementation\\SuperShop.Data\\SuperShop.Data.csproj": {
-                "projectPath": "C:\\tmp\\superShopAlternativeApi\\superShopAlternativeImplementation\\SuperShop.Data\\SuperShop.Data.csproj"
+              "C:\\proyectos\\SuperShopAlternativeApi\\SuperShop.Data\\SuperShop.Data.csproj": {
+                "projectPath": "C:\\proyectos\\SuperShopAlternativeApi\\SuperShop.Data\\SuperShop.Data.csproj"
               }
             }
           }

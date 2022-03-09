@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h0RiNRy8vlKAAXQpNV2QEg0VUh/IIFOFI8U89bva8BEVFWOkelVESgj+BZX7epwNF4ISOaXLlAu353pspsugfQ==",
+  "dgSpecHash": "XTYupenfEbsXaVfz1fj/RZQ0EPECwdP3+RuZd8xxOa8rh++9UlCwB35LcXs6OuN7lBzNCpRHlpxapAWHqYbyuQ==",
   "success": true,
-  "projectFilePath": "C:\\tmp\\superShopAlternativeApi\\superShopAlternativeImplementation\\SuperShop.Data\\SuperShop.Data.csproj",
+  "projectFilePath": "C:\\proyectos\\SuperShopAlternativeApi\\SuperShop.Data\\SuperShop.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\rocruz\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\rocruz\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",
