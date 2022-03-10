@@ -9,7 +9,8 @@ namespace SuperShop.Core.Interfaces
 {
     public interface IMallService
     {
-        public IEnumerable<Mall> GetAllMalls();
+        public Task<IEnumerable<Mall>> GetAllMalls();
         public Task<bool>SaveMall(Mall mall);
+        public Task<bool>DeleteMall(string mall);
     }
 }

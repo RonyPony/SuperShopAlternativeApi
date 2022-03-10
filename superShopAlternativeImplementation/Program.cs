@@ -1,5 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
+using SuperShop.Core.Contracts;
+using SuperShop.Core.Interfaces;
 using SuperShop.Data.Data;
 using SuperShop.Data.Repository;
 using SuperShop.Data.Services;
@@ -21,6 +23,8 @@ builder.Services.AddCors();
 //context.UseSqlServer(Configuration.GetConnectionString("DefaultConnections"),
 //b => b.MigrationsAssembly("Polidom.Data")));
 builder.Services.AddDbContext<SuperShopContext>();
+builder.Services.AddTransient<IMallRepository, MallRepository>();
+builder.Services.AddTransient<IMallService, MallService>();
 builder.Services.AddTransient<IBranchRepository, BranchRepository>();
 builder.Services.AddTransient<IBranchService, BranchService>();
 

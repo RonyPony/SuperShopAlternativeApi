@@ -15,7 +15,6 @@ C:\tmp\superShopAlternativeApi\superShopAlternativeImplementation\SuperShop.Core
 C:\proyectos\SuperShopAlternativeApi\SuperShop.Core\bin\Debug\net6.0\SuperShop.Core.deps.json
 C:\proyectos\SuperShopAlternativeApi\SuperShop.Core\bin\Debug\net6.0\SuperShop.Core.runtimeconfig.json
 C:\proyectos\SuperShopAlternativeApi\SuperShop.Core\bin\Debug\net6.0\SuperShop.Core.dll
-C:\proyectos\SuperShopAlternativeApi\SuperShop.Core\bin\Debug\net6.0\ref\SuperShop.Core.dll
 C:\proyectos\SuperShopAlternativeApi\SuperShop.Core\bin\Debug\net6.0\SuperShop.Core.pdb
 C:\proyectos\SuperShopAlternativeApi\SuperShop.Core\obj\Debug\net6.0\SuperShop.Core.GeneratedMSBuildEditorConfig.editorconfig
 C:\proyectos\SuperShopAlternativeApi\SuperShop.Core\obj\Debug\net6.0\SuperShop.Core.AssemblyInfoInputs.cache
@@ -25,3 +24,5 @@ C:\proyectos\SuperShopAlternativeApi\SuperShop.Core\obj\Debug\net6.0\SuperShop.C
 C:\proyectos\SuperShopAlternativeApi\SuperShop.Core\obj\Debug\net6.0\ref\SuperShop.Core.dll
 C:\proyectos\SuperShopAlternativeApi\SuperShop.Core\obj\Debug\net6.0\SuperShop.Core.pdb
 C:\proyectos\SuperShopAlternativeApi\SuperShop.Core\obj\Debug\net6.0\SuperShop.Core.genruntimeconfig.cache
+C:\proyectos\SuperShopAlternativeApi\SuperShop.Core\obj\Debug\net6.0\SuperShop.Core.csproj.AssemblyReference.cache
+C:\proyectos\SuperShopAlternativeApi\SuperShop.Core\obj\Debug\net6.0\refint\SuperShop.Core.dll

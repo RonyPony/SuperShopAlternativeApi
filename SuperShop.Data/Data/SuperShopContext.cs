@@ -28,6 +28,7 @@ namespace SuperShop.Data.Data
 
             //builder.ApplyConfiguration(new RoleConfiguration());
             base.OnModelCreating(builder);
+            builder.Entity<Mall>().HasQueryFilter(x => x.IsDeleted == false);
         }
 
 

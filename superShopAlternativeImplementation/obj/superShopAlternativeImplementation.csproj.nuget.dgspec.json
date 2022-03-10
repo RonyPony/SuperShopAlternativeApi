@@ -10,11 +10,11 @@
         "projectUniqueName": "C:\\proyectos\\SuperShopAlternativeApi\\SuperShop.Core\\SuperShop.Core.csproj",
         "projectName": "SuperShop.Core",
         "projectPath": "C:\\proyectos\\SuperShopAlternativeApi\\SuperShop.Core\\SuperShop.Core.csproj",
-        "packagesPath": "C:\\Users\\rocruz\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\ronel\\.nuget\\packages\\",
         "outputPath": "C:\\proyectos\\SuperShopAlternativeApi\\SuperShop.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rocruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ronel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -100,7 +100,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -110,11 +110,11 @@
         "projectUniqueName": "C:\\proyectos\\SuperShopAlternativeApi\\SuperShop.Data\\SuperShop.Data.csproj",
         "projectName": "SuperShop.Data",
         "projectPath": "C:\\proyectos\\SuperShopAlternativeApi\\SuperShop.Data\\SuperShop.Data.csproj",
-        "packagesPath": "C:\\Users\\rocruz\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\ronel\\.nuget\\packages\\",
         "outputPath": "C:\\proyectos\\SuperShopAlternativeApi\\SuperShop.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rocruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ronel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -204,7 +204,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -214,11 +214,11 @@
         "projectUniqueName": "C:\\proyectos\\SuperShopAlternativeApi\\superShopAlternativeImplementation\\superShopAlternativeImplementation.csproj",
         "projectName": "superShopAlternativeImplementation",
         "projectPath": "C:\\proyectos\\SuperShopAlternativeApi\\superShopAlternativeImplementation\\superShopAlternativeImplementation.csproj",
-        "packagesPath": "C:\\Users\\rocruz\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\ronel\\.nuget\\packages\\",
         "outputPath": "C:\\proyectos\\SuperShopAlternativeApi\\superShopAlternativeImplementation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rocruz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ronel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -315,7 +315,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -83,7 +83,6 @@ C:\proyectos\SuperShopAlternativeApi\superShopAlternativeImplementation\bin\Debu
 C:\proyectos\SuperShopAlternativeApi\superShopAlternativeImplementation\bin\Debug\net6.0\superShopAlternativeImplementation.deps.json
 C:\proyectos\SuperShopAlternativeApi\superShopAlternativeImplementation\bin\Debug\net6.0\superShopAlternativeImplementation.runtimeconfig.json
 C:\proyectos\SuperShopAlternativeApi\superShopAlternativeImplementation\bin\Debug\net6.0\superShopAlternativeImplementation.dll
-C:\proyectos\SuperShopAlternativeApi\superShopAlternativeImplementation\bin\Debug\net6.0\ref\superShopAlternativeImplementation.dll
 C:\proyectos\SuperShopAlternativeApi\superShopAlternativeImplementation\bin\Debug\net6.0\superShopAlternativeImplementation.pdb
 C:\proyectos\SuperShopAlternativeApi\superShopAlternativeImplementation\bin\Debug\net6.0\AutoMapper.dll
 C:\proyectos\SuperShopAlternativeApi\superShopAlternativeImplementation\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
@@ -156,3 +155,4 @@ C:\proyectos\SuperShopAlternativeApi\superShopAlternativeImplementation\obj\Debu
 C:\proyectos\SuperShopAlternativeApi\superShopAlternativeImplementation\obj\Debug\net6.0\ref\superShopAlternativeImplementation.dll
 C:\proyectos\SuperShopAlternativeApi\superShopAlternativeImplementation\obj\Debug\net6.0\superShopAlternativeImplementation.pdb
 C:\proyectos\SuperShopAlternativeApi\superShopAlternativeImplementation\obj\Debug\net6.0\superShopAlternativeImplementation.genruntimeconfig.cache
+C:\proyectos\SuperShopAlternativeApi\superShopAlternativeImplementation\obj\Debug\net6.0\refint\superShopAlternativeImplementation.dll

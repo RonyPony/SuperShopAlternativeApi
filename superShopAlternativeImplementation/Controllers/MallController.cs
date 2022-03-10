@@ -37,5 +37,31 @@ namespace superShopAlternativeImplementation.Controllers
             }
         }
 
+        [HttpDelete(Name ="Delete")]
+        public async Task<IActionResult> Delete(string id)
+        {
+            if (id == null)
+            {
+                return BadRequest();
+            }
+            else
+            {
+                var response = await _mallService.DeleteMall(id);
+                return Ok(response);
+            }
+        }
+
+        [HttpGet(Name ="GetAllMalls")]
+        public async Task<IEnumerable<Mall>> GetMalls()
+        {
+            try {
+                var response = await _mallService.GetAllMalls();
+                return response.ToList();
+            }catch (Exception) {
+                return null;
+
+            }
+        }
+
     }
 }
