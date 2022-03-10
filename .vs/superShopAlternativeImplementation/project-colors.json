@@ -10,7 +10,12 @@
       "ProjectGuid": "7676ae92-c83b-4dee-9fd7-64144e1cb869",
       "DisplayName": "superShopAlternativeImplementation",
       "ColorIndex": 1
+    },
+    "372e6d6f-7cac-46b8-ad80-c6184f201491": {
+      "ProjectGuid": "372e6d6f-7cac-46b8-ad80-c6184f201491",
+      "DisplayName": "SuperShop.Core",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }

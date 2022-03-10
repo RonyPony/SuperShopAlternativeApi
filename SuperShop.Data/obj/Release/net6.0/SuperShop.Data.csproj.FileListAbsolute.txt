@@ -1,0 +1,17 @@
+C:\proyectos\SuperShopAlternativeApi\SuperShop.Data\bin\Release\net6.0\SuperShop.Data.deps.json
+C:\proyectos\SuperShopAlternativeApi\SuperShop.Data\bin\Release\net6.0\SuperShop.Data.runtimeconfig.json
+C:\proyectos\SuperShopAlternativeApi\SuperShop.Data\bin\Release\net6.0\SuperShop.Data.dll
+C:\proyectos\SuperShopAlternativeApi\SuperShop.Data\bin\Release\net6.0\ref\SuperShop.Data.dll
+C:\proyectos\SuperShopAlternativeApi\SuperShop.Data\bin\Release\net6.0\SuperShop.Data.pdb
+C:\proyectos\SuperShopAlternativeApi\SuperShop.Data\bin\Release\net6.0\SuperShop.Core.dll
+C:\proyectos\SuperShopAlternativeApi\SuperShop.Data\bin\Release\net6.0\SuperShop.Core.pdb
+C:\proyectos\SuperShopAlternativeApi\SuperShop.Data\obj\Release\net6.0\SuperShop.Data.csproj.AssemblyReference.cache
+C:\proyectos\SuperShopAlternativeApi\SuperShop.Data\obj\Release\net6.0\SuperShop.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\SuperShopAlternativeApi\SuperShop.Data\obj\Release\net6.0\SuperShop.Data.AssemblyInfoInputs.cache
+C:\proyectos\SuperShopAlternativeApi\SuperShop.Data\obj\Release\net6.0\SuperShop.Data.AssemblyInfo.cs
+C:\proyectos\SuperShopAlternativeApi\SuperShop.Data\obj\Release\net6.0\SuperShop.Data.csproj.CoreCompileInputs.cache
+C:\proyectos\SuperShopAlternativeApi\SuperShop.Data\obj\Release\net6.0\SuperShop.Data.csproj.CopyComplete
+C:\proyectos\SuperShopAlternativeApi\SuperShop.Data\obj\Release\net6.0\SuperShop.Data.dll
+C:\proyectos\SuperShopAlternativeApi\SuperShop.Data\obj\Release\net6.0\ref\SuperShop.Data.dll
+C:\proyectos\SuperShopAlternativeApi\SuperShop.Data\obj\Release\net6.0\SuperShop.Data.pdb
+C:\proyectos\SuperShopAlternativeApi\SuperShop.Data\obj\Release\net6.0\SuperShop.Data.genruntimeconfig.cache
